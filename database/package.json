@@ -1,0 +1,12 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "seed": "node --loader ts-node/esm prisma/seed.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.0"
+  }
+}
