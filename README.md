@@ -11,7 +11,7 @@ https://github.com/it-excelsus/interview-junior-fullstack-javascript/tree/main
 
 2. **Backend:** The backend is started with "npx tsx index.ts"
 
-3. **Database:** The database can be ignored, since i tried doing it here but hat complications, so i moved the database to the backend (i used SQLite and Prisma for the database)
+3. **Database:** The database can be ignored, since i tried doing it here but had complications, so i moved the database to the backend (i used SQLite and Prisma for the database)
 
 ## Thank you for the opportunity 
 
